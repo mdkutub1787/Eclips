@@ -1,0 +1,7 @@
+
+Jul 03, 2024 23:10:30.03 NEW SESSION
+Jul 03, 2024 23:10:30.03 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jul 03, 2024 23:20:38.87 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jul 03, 2024 23:22:29.929 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jul 03, 2024 23:24:59.669 [3704:8608:0703/232459.669:ERROR:device_event_log_impl.cc(196)] [23:24:59.669] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jul 03, 2024 23:31:43.948 [3704:8608:0703/233143.947:ERROR:interface_endpoint_client.cc(722)] Message 5 rejected by interface blink.mojom.WidgetHost
