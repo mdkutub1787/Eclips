@@ -62,7 +62,7 @@
     <body>
         <div class="form-container">
             <h1>Student Form</h1>
-            <form action="saveStudent.jsp" method="post">
+            <form action="savestudent.jsp" method="post">
                 <label for="name">Name:</label>
                 <input type="text" id="name" name="name">
                 <label for="email">Email:</label>
