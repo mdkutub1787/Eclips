@@ -1,6 +1,6 @@
 <jsp:include page="header.jsp" />
 
-
+<h1 class="text-center my-2"> Student Add Form</h1>
 <div class="container">
 
 	<form action="savestudent.jsp" method="post">
