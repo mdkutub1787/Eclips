@@ -7,6 +7,8 @@ String id=request.getParameter("id");
 Student s=StudentDao.getById(Integer.parseInt(id));
 %>
 
+<jsp:include page="header.jsp" />
+
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
@@ -85,3 +87,4 @@ Student s=StudentDao.getById(Integer.parseInt(id));
         </div>
     </body>
 </html>
+<jsp:include page="footer.jsp" />
