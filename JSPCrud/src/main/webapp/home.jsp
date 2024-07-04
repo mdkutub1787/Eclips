@@ -1,9 +1,10 @@
 <jsp:include page="header.jsp" />
 
-    <div class="container">
-        <div class="date">
-            <h2> <%= new java.util.Date() %></h2>
-             
-        </div>
+<div class="container">
+	<div class="date">
+		<h2>
+			<%=new java.util.Date()%></h2>
 
-<jsp:include page="footer.jsp" />
+	</div>
+
+	<jsp:include page="footer.jsp" />
