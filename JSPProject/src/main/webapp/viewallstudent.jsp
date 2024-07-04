@@ -9,6 +9,7 @@ List<Student> list = StudentDao.viewAllStudent();
 request.setAttribute("list", list);
 %>
 
+<jsp:include page="header.jsp" />
 <!DOCTYPE html>
 <html>
     <head>
@@ -88,3 +89,4 @@ request.setAttribute("list", list);
         </table>
     </body>
 </html>
+ <jsp:include page="footer.jsp" />
