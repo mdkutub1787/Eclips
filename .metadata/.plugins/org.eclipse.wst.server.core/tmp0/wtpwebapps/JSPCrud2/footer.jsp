@@ -6,7 +6,7 @@
       <a href="/" class="d-flex align-items-center mb-3 link-dark text-decoration-none">
         <svg class="bi me-2" width="40" height="32"><use xlink:href="#bootstrap"></use></svg>
       </a>
-      <p class="text-muted">Š 2021</p>
+      <p class="text-muted">Š 2024</p>
     </div>
 
     <div class="col">
