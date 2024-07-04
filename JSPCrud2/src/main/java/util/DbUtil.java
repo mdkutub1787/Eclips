@@ -5,7 +5,7 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
-public class DbUtil {
+public class DBUtil {
 
 	private static String url = "jdbc:mysql://localhost:3306/jsptest";
 	private static String user = "root";

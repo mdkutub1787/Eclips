@@ -12,3 +12,10 @@ Jul 04, 2024 09:06:02.926 Created TensorFlow Lite XNNPACK delegate for CPU.
 Jul 04, 2024 09:13:37.874 Created TensorFlow Lite XNNPACK delegate for CPU.
 Jul 04, 2024 09:17:00.75 Created TensorFlow Lite XNNPACK delegate for CPU.
 Jul 04, 2024 09:51:40.852 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jul 04, 2024 10:08:52.962 [10384:13848:0704/100852.961:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jul 04, 2024 10:09:08.47 [10384:13848:0704/100908.047:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jul 04, 2024 10:09:32.744 [10384:13848:0704/100932.743:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jul 04, 2024 10:10:28.517 [10384:13848:0704/101028.517:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jul 04, 2024 10:12:17.936 [10384:13848:0704/101217.936:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jul 04, 2024 10:15:55.240 [10384:13848:0704/101555.239:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+Jul 04, 2024 10:21:38.913 [10384:13848:0704/102138.912:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
